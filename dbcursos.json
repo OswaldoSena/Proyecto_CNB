@@ -1,0 +1,42 @@
+{
+  "cursos": [
+    {
+      "value": 1,
+      "text": "programción",
+      "ESTADO": "1",
+      "NumeroHoras": 55,
+      "TipoDiploma": "img1",
+      "nombre": "Oswaldo Ramírez Gutiérrez",
+      "identi": 123456789,
+      "texto1": "Texto 1",
+      "texto2": "Texto 2",
+      "texto3": "Texto 3",
+      "fecha": "13-11-2024"
+    },
+    {
+      "value": 2,
+      "text": "Curso de Diseño",
+      "ESTADO": 1,
+      "NumeroHoras": 45,
+      "TipoDiploma": "img2",
+      "nombre": "Oswaldo Ramírez Gutiérrez",
+      "identi": 123456789,
+      "texto1": "Texto 1",
+      "texto2": "Texto 2",
+      "texto3": "Texto 3",
+      "fecha": "13-11-2024"
+    },
+    {
+      "NuevoCurso": "oswaldo5",
+      "id": 3
+    },
+    {
+      "NuevoCurso": "intento2",
+      "id": 4
+    },
+    {
+      "NuevoCurso": "oswaldo",
+      "id": 5
+    }
+  ]
+}
